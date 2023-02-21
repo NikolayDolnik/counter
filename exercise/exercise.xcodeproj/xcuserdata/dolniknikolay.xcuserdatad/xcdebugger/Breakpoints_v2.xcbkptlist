@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E97E18F-EC5B-4276-A584-114AF095E4C9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0C6449E-7347-4C1F-8085-2E42B5EB0D32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E0C6449E-7347-4C1F-8085-2E42B5EB0D32 - 525756321c26c1df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exercise.ViewController.changeButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dolniknikolay/Desktop/iOS/test/exercise/exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E0C6449E-7347-4C1F-8085-2E42B5EB0D32 - d44a35d6870e1eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exercise.ViewController.changeButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dolniknikolay/Desktop/iOS/test/exercise/exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "E0C6449E-7347-4C1F-8085-2E42B5EB0D32 - e4d26e7b94a1a9da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exercise.ViewController.changeButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dolniknikolay/Desktop/iOS/test/exercise/exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E0C6449E-7347-4C1F-8085-2E42B5EB0D32 - 644a5efb5900a955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exercise.ViewController.changeButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dolniknikolay/Desktop/iOS/test/exercise/exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "E0C6449E-7347-4C1F-8085-2E42B5EB0D32 - e62413173697eb65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exercise.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; exercise.ViewController"
+                  moduleName = "exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dolniknikolay/Desktop/iOS/test/exercise/exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "E0C6449E-7347-4C1F-8085-2E42B5EB0D32 - 6274758fc9b9262b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exercise.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;exercise.ViewController&gt;"
+                  moduleName = "exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dolniknikolay/Desktop/iOS/test/exercise/exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
