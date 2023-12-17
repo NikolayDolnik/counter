@@ -10,7 +10,7 @@ import Foundation
 final class testbranch {
     
     func pr(){
-        
+        print("new")
     }
     
 }
